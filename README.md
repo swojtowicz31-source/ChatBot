@@ -19,12 +19,6 @@ Run the app:
 
 streamlit run app.py
 Open in browser at http://localhost:8501
-File Structure
-
-├── app.py            # Streamlit UI
-├── chat_logic.py     # Functions for API calls and history handling
-├── history.csv       # Saved conversation history
-└── README.md
 
 Requirements
 Python 3.8+
